@@ -1,0 +1,9 @@
+
+    ========================================
+    TEST REPORT: STATISTICAL ANALYSIS CHECK
+    ========================================
+    Status: Sukses
+    Koneksi Folder: Berhasil Terhubung
+    Format: Plain Text (.txt)
+    ========================================
+    

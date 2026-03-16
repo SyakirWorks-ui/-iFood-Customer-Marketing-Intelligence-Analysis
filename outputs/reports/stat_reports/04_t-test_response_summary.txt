@@ -1,0 +1,6 @@
+HASIL UJI T-TEST (MARKETING RESPONSE)
+========================================
+T-Statistic : 9.9491
+P-Value     : 6.8873e-21
+Kesimpulan  : Tolak H0 (Signifikan)
+Insight     : Kelompok Responders belanja 81.83% lebih banyak daripada Non-Responders.

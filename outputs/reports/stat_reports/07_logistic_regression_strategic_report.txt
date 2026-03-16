@@ -1,0 +1,17 @@
+LAPORAN ANALISIS REGRESI LOGISTIK: PREDIKSI RESPONS KAMPANYE
+============================================================
+A. METRIK PERFORMA MODEL
+   - Pseudo R-squared : 0.1438
+   - Log-Likelihood   : -777.30
+
+B. STRATEGIC INSIGHT (P-Value & Odds Ratio)
+   - Faktor pendorong utama respon adalah 'Kidhome' dengan Odds Ratio 1.70.
+   - Artinya, peningkatan satu unit pada 'Kidhome' meningkatkan kecenderungan
+     pelanggan untuk merespon kampanye sebesar 70.3%, ceteris paribus.
+
+C. OBSERVASI VARIABEL SIGNIFIKAN
+   1. Kidhome (p=0.0008): Berpengaruh positif signifikan terhadap respons.
+   2. Recency (p=0.0000): Berpengaruh negatif; pelanggan yang baru saja belanja
+      cenderung lebih responsif terhadap kampanye baru.
+   3. Income  (p=0.0009): Menunjukkan pengaruh yang sangat kecil namun signifikan.
+============================================================

@@ -1,0 +1,7 @@
+LAPORAN INSIGHT ANALISIS REGRESI (Langkah 06)
+==================================================
+1. Linearitas: Visualisasi regplot menunjukkan hubungan positif yang kuat antara Income dan MntTotal.
+2. Efek Kidhome: Koefisien negatif (-199.32) tervalidasi secara visual;
+   kehadiran anak kecil di rumah cenderung menurunkan total pengeluaran produk kategori ini.
+3. Validasi Residual: Garis merah pada Residual Plot yang relatif mendatar di sekitar titik 0
+   menunjukkan bahwa model OLS kita sudah cukup stabil dan tidak bias.

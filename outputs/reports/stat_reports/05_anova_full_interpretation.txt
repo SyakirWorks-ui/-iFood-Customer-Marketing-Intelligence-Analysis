@@ -1,0 +1,7 @@
+--- Hasil Analisis Varians (ANOVA) ---
+F-Statistic : 14.6937
+P-Value     : 7.5501e-12
+
+✅ KESIMPULAN: Tolak H0.
+Ada perbedaan signifikan dalam rata-rata pengeluaran berdasarkan tingkat pendidikan pelanggan.
+Insight: Segmentasi pelanggan berdasarkan pendidikan efektif untuk strategi targeting.

@@ -1,0 +1,3 @@
+Korelasi tertinggi dengan Total Spending (MntTotal) adalah: 
+Income     0.821604
+Recency    0.023407

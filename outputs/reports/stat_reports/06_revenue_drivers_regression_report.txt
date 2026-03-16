@@ -1,0 +1,23 @@
+LAPORAN ANALISIS REGRESI: IDENTIFIKASI REVENUE DRIVERS
+============================================================
+A. METRIK PERFORMA MODEL
+   - R-squared          : 0.7401 (Model menjelaskan 74% varians pengeluaran)
+   - Adj. R-squared     : 0.7395
+   - F-statistic        : 1239.52
+   - Prob (F-statistic) : 0.0000 (Model sangat signifikan secara statistik)
+
+B. VARIABEL PENDORONG SIGNIFIKAN (p-value < 0.05)
+   1. Income (Coeff: 0.0231)
+      Setiap kenaikan unit income berkorelasi positif dengan kenaikan pengeluaran.
+   2. NumWebVisitsMonth (Coeff: 34.9586)
+      Kunjungan web merupakan pendorong positif terhadap total belanja.
+   3. Kidhome (Coeff: -199.3218)
+      Memiliki anak kecil di rumah menurunkan potensi pengeluaran secara drastis.
+   4. Teenhome (Coeff: -212.3864)
+      Memiliki remaja di rumah juga berkorelasi negatif terhadap total belanja.
+
+C. KESIMPULAN STRATEGIS
+   ✅ Analisis selesai: Ditemukan 4 variabel kunci yang berpengaruh signifikan.
+   Strategi pemasaran harus diprioritaskan pada segmen berpendapatan tinggi
+   tanpa anak/remaja di rumah untuk memaksimalkan ROI.
+============================================================

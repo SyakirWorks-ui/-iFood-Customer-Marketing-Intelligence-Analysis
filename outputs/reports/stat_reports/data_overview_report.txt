@@ -1,0 +1,46 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 2182 entries, 0 to 2181
+Data columns (total 39 columns):
+ #   Column                Non-Null Count  Dtype  
+---  ------                --------------  -----  
+ 0   Income                2182 non-null   float64
+ 1   Kidhome               2182 non-null   int64  
+ 2   Teenhome              2182 non-null   int64  
+ 3   Recency               2182 non-null   int64  
+ 4   MntWines              2182 non-null   int64  
+ 5   MntFruits             2182 non-null   int64  
+ 6   MntMeatProducts       2182 non-null   int64  
+ 7   MntFishProducts       2182 non-null   int64  
+ 8   MntSweetProducts      2182 non-null   int64  
+ 9   MntGoldProds          2182 non-null   int64  
+ 10  NumDealsPurchases     2182 non-null   int64  
+ 11  NumWebPurchases       2182 non-null   int64  
+ 12  NumCatalogPurchases   2182 non-null   int64  
+ 13  NumStorePurchases     2182 non-null   int64  
+ 14  NumWebVisitsMonth     2182 non-null   int64  
+ 15  AcceptedCmp3          2182 non-null   int64  
+ 16  AcceptedCmp4          2182 non-null   int64  
+ 17  AcceptedCmp5          2182 non-null   int64  
+ 18  AcceptedCmp1          2182 non-null   int64  
+ 19  AcceptedCmp2          2182 non-null   int64  
+ 20  Complain              2182 non-null   int64  
+ 21  Z_CostContact         2182 non-null   int64  
+ 22  Z_Revenue             2182 non-null   int64  
+ 23  Response              2182 non-null   int64  
+ 24  Age                   2182 non-null   int64  
+ 25  Customer_Days         2182 non-null   int64  
+ 26  marital_Divorced      2182 non-null   int64  
+ 27  marital_Married       2182 non-null   int64  
+ 28  marital_Single        2182 non-null   int64  
+ 29  marital_Together      2182 non-null   int64  
+ 30  marital_Widow         2182 non-null   int64  
+ 31  education_2n Cycle    2182 non-null   int64  
+ 32  education_Basic       2182 non-null   int64  
+ 33  education_Graduation  2182 non-null   int64  
+ 34  education_Master      2182 non-null   int64  
+ 35  education_PhD         2182 non-null   int64  
+ 36  MntTotal              2182 non-null   int64  
+ 37  MntRegularProds       2182 non-null   int64  
+ 38  AcceptedCmpOverall    2182 non-null   int64  
+dtypes: float64(1), int64(38)
+memory usage: 665.0 KB

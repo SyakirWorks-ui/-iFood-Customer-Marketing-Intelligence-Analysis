@@ -1,0 +1,22 @@
+LAPORAN EVALUASI VISUAL: MODEL PROBABILITAS RESPON KAMPANYE
+=================================================================
+A. ANALISIS DISTRIBUSI (KDE PLOT)
+   - Kelompok Non-Responders (Merah): Memiliki puncak kepadatan tinggi pada
+     rentang probabilitas 0.0 - 0.2, menunjukkan model berhasil mengidentifikasi
+     mayoritas pelanggan yang tidak tertarik.
+   - Kelompok Responders (Hijau): Distribusi lebih melandai ke arah kanan,
+     menunjukkan adanya kelompok pelanggan dengan probabilitas respon tinggi.
+   - Overlap Area: Terdapat irisan distribusi di tengah, menandakan adanya
+     karakteristik pelanggan yang mirip di antara kedua kelas.
+
+B. EVALUASI THRESHOLD (BATAS AMBANG 0.5)
+   - Garis Putus-putus (Threshold 0.5) memisahkan prediksi final.
+   - Pelanggan di sebelah kanan garis adalah target prioritas tinggi (High-Value Targets).
+
+C. KUALITAS MODEL & REKOMENDASI STRATEGIS
+   - Pseudo R-squared: 0.1438 (Kualitas model moderat).
+   - Rekomendasi: Fokuskan anggaran kampanye berikutnya hanya pada pelanggan
+     dengan Predicted Probability > 0.5 untuk memaksimalkan efisiensi biaya.
+   - Insight Tambahan: Faktor 'Kidhome' terbukti menjadi sinyal pendorong kuat
+     dalam pemisahan kelas ini.
+=================================================================
