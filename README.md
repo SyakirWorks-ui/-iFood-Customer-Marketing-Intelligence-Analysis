@@ -22,28 +22,28 @@ Based on the project roadmap, the analysis focuses on answering 7 critical busin
 
 ### 1. KPI & Business Health Overview
 We established a baseline for business performance, focusing on conversion rates and average order values.
-![KPI Performance](1.%20Kpi%20ifood.png)
+![KPI Performance](../outputs/figures/insight_figures/1.%20Kpi%20ifood.png)
 * **Strategic Insight**: Understanding the baseline conversion helps in setting realistic growth targets for future quarters.*
 
 ### 2. Customer Segmentation & Spending
 Analysis of income vs. spending reveals clear clusters of high-value patrons.
-![Customer Segmentation](2a.customer%20segmentation.png)
+![Customer Segmentation](../outputs/figures/insight_figures/2a.customer%20segmentation.png)
 * **Finding**: Income is the strongest predictor of total spending, but household size plays a crucial moderating role.*
 
 ### 3. Revenue Drivers (Linear Regression Results)
 Using Multiple Linear Regression, we identified the key variables driving `MntTotal`.
 * **Positive Drivers**: `Income`, `NumWebVisitsMonth`.
 * **Negative Drivers**: `Kidhome` (Significantly reduces spending in premium categories).
-![Product Analysis](6a.%20product%20%20&%20inventory.png)
+![Product Analysis](../outputs/figures/insight_figures/6a.%20product%20%20&%20inventory.png)
 
 ### 4. Predictive Targeting (Logistic Regression)
 To optimize marketing spend, a Logistic Regression model was built to predict the probability of a customer accepting a campaign.
-![Marketing Performance](5.%20marketing%20&%20channel%20performance.png)
+![Marketing Performance](../outputs/figures/insight_figures/5.%20marketing%20&%20channel%20performance.png)
 * **Key Result**: Customers with lower `Recency` (recent shoppers) and higher `Income` are **70.3% more likely** to respond to promotions (Odds Ratio: 1.70).*
 
 ### 5. Retention & Churn Risk
 By analyzing `Recency` and engagement, we identified segments at risk of churning.
-![Churn Risk](3.%20churn%20risk.png)
+![Churn Risk](../outputs/figures/insight_figures/3.%20churn%20risk.png)
 * **Recommendation**: Implement a re-engagement campaign for customers who haven't purchased in >60 days.*
 
 ---
