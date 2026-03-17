@@ -27,7 +27,7 @@ We established a baseline for business performance, focusing on conversion rates
 
 ### 2. Customer Segmentation & Spending
 Analysis of income vs. spending reveals clear clusters of high-value patrons.
-![Customer Segmentation](-iFood-Customer-Marketing-Intelligence-Analysis/outputs/figures/insight_figures/2a.customer%20segmentation.png)
+![Customer Segmentation](../outputs/figures/insight_figures/2a.customer%20segmentation.png)
 * **Finding**: Income is the strongest predictor of total spending, but household size plays a crucial moderating role.*
 
 ### 3. Revenue Drivers (Linear Regression Results)
